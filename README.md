@@ -1,0 +1,1 @@
+I'm bad at making read me's, anyways, this is a mod that automatically reports users on the ARSPlayerIDs repository. This is made to be added into other mods, and to do that, all you need to do is copy the code in plugin.cs and change it from a BaseUnityPlugin to a MonoBehaviour, then proceed to add it to a gameobject that your mod creates.
